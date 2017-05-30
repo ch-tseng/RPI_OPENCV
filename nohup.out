@@ -1,0 +1,4 @@
+Please enter your gesture number: Traceback (most recent call last):
+  File "motionDetect.py", line 13, in <module>
+    numInput = raw_input("Please enter your gesture number: ")
+IOError: [Errno 9] Bad file descriptor
